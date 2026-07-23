@@ -84,7 +84,7 @@ The **Hospital Patient Analysis** page provides an overall summary of hospital a
 - Medical Condition
 - Admission Year
 
-![Hospital Patient Analysis](HospitalDashboard.png)
+![Hospital Patient Analysis](Hospital_Dashboard.png)
 
 ---
 
@@ -119,7 +119,7 @@ The detailed table includes:
 - Medical Condition
 - Admission Type
 
-![Patient Details](Patientdetails.png)
+![Patient Details](Patient_details.png)
 
 ---
 
@@ -146,7 +146,7 @@ The **Billing Analysis** page focuses on healthcare financial performance.
 
 - Admission Year
 
-![Billing Analysis](Billing Analysis.png)
+![Billing Analysis](Billing_Analysis.png)
 
 ---
 

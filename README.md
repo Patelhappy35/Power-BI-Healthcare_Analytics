@@ -146,7 +146,7 @@ The **Billing Analysis** page focuses on healthcare financial performance.
 
 - Admission Year
 
-![Billing Analysis](BillingAnalysis.png)
+![Billing Analysis](Billing Analysis.png)
 
 ---
 

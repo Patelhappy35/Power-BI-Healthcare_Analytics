@@ -177,6 +177,15 @@ The dashboard also includes navigation buttons for moving between report pages.
 
 ## 📂 Repository Structure
 
+```text
+Power-BI-healthcare_Analytics/
+│── PR_2.pbix
+│── README.md
+│── Hospital_Dashboard.png
+│── Billing_Analysis.png
+│── Patient_details.png
+└── healthcare_dataset.csv
+```
 
 ---
 
